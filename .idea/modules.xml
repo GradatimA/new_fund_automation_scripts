@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FundAutomationScripts.iml" filepath="$PROJECT_DIR$/.idea/FundAutomationScripts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pytestproject/.idea/Pytestproject.iml" filepath="$PROJECT_DIR$/../Pytestproject/.idea/Pytestproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Term_Credit_Automation/.idea/Term_CreditAutomation.iml" filepath="$PROJECT_DIR$/../Term_Credit_Automation/.idea/Term_CreditAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../restAPI/.idea/restAPI.iml" filepath="$PROJECT_DIR$/../restAPI/.idea/restAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../restAPILearning/.idea/restAPILearning.iml" filepath="$PROJECT_DIR$/../restAPILearning/.idea/restAPILearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../restApiLearning/.idea/restApiLearning.iml" filepath="$PROJECT_DIR$/../restApiLearning/.idea/restApiLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../restapiautomation/.idea/restapiautomation.iml" filepath="$PROJECT_DIR$/../restapiautomation/.idea/restapiautomation.iml" />
+    </modules>
+  </component>
+</project>
